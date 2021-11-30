@@ -12,27 +12,27 @@ font_size: L
 
 # SEO
 
-site_type: Organization
+site_type: Decentralized Identity Research
 local_business_type: ''
-org_name: ''
+org_name: 'SPAIRL'
 description: My research group description.
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: imccloskey@leomail.tamuc.edu
+phone: 979 979 9979
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 3100 TX-47 
+  city: Bryan
+  region: TX
+  postcode: '77807'
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '32.374691'
+  longitude: '-95.378014'
+directions: Enter Academic Building 2 and take the stairs to classroom 314 on the third floor
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
