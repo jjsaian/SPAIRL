@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳恩達
+title: Professor
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Decentralized Identity
 
 # Organizations/Affiliations
 organizations:
