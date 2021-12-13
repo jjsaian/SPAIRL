@@ -1,67 +1,42 @@
 ---
-# Display name
 title: Ian McCloskey
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
 role: Researcher for Wallet Application and Progressive Web Applications
-
-# Organizations/Affiliations
-organizations:
-- name: Texas A&M - Commerce
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include Decentralized Identity utilizing concepts and protocols that range from Social Linked Data (SOLID), creating Progressive Web Applications and creating a wallet application.
-
+avatar_filename: picture1.png
+bio: My research interests include Decentralized Identity utilizing concepts and
+  protocols that range from Social Linked Data (SOLID), creating Progressive Web
+  Applications and creating a wallet application.
 interests:
-- Decentralized Identity
-- Software Development
-
+  - Decentralized Identity
+  - Software Development
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:test@example.org
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://jjsaian
+organizations:
+  - name: Texas A&M - Commerce
+    url: ""
 education:
   courses:
-  - course: BS in Computer Science
-    institution: Texas A&M - Commerce
-    year: 2022
-  - course: AS in Computer Science
-    institution: Blinn College
-    year: 2020
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://jjsaian
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: BS in Computer Science
+      institution: Texas A&M - Commerce
+      year: 2022
+    - course: AS in Computer Science
+      institution: Blinn College
+      year: 2020
 email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+superuser: true
 user_groups:
-- Researchers
+  - Researchers
+highlight_name: false
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
